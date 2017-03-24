@@ -2,5 +2,8 @@ PONEYS
 ======
 
 J adore les poneys
-    $ git clone 
-	$ yarn start
+```shell
+	$ git clone https://github.com/GregoireDC/PONEYS.git
+	$ yarn 
+	$ node index.js
+```
